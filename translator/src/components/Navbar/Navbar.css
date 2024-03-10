@@ -1,0 +1,17 @@
+body {
+    background-color: #161A30; /* Change this to the desired color */
+}
+.bg-dark {
+    background-color: #31304D!important;
+}
+.my-lg-0 {
+    margin-bottom : 0!important;
+    margin-left : 730px;
+}
+/* .navbar-collapse {
+    display: -webkit-box!important;
+    display: -ms-flexbox!important;
+     display: flex!important; 
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+} */
